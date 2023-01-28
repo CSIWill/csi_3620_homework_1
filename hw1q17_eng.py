@@ -24,4 +24,4 @@ def movieList(*movies):
 movieList('Star wars', 'stargate', 'star Trek', 'star quest')
 
 # 6 movies not all formatted as titles properly
-movieList('Top Gun', 'James Bond: dr. no', 'The Incredibles', 'The Fast and the furious: tokyo drift', 'blood Diamond')
+movieList('Top Gun', 'James Bond: dr. no', 'The Incredibles', 'The Fast and the furious: tokyo drift', 'blood Diamond', 'evaNgelion: 2.0 You Can (not) advance')
