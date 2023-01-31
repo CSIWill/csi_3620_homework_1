@@ -1,5 +1,5 @@
 # HW1 Q17
-# Name: Prof. Bowers
+# Name: William Eng
 # Description: Function with an arbitrary number of arguments
 
 # •	Call that function twice
